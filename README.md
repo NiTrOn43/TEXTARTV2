@@ -3,7 +3,7 @@
 тут будет инструкция как им пользоватся!
 			apt install git
 			 
-		git clone https://github.com/NiTrOn43/TEXTART.git
+		git clone https://github.com/NiTrOn43/TEXTARTV2.git
 		
 	cd TEXTARTV2
 	
